@@ -1,0 +1,519 @@
+Hashing with Linear Probing mod 120: 
+
+0null Null Null 90123null 14763  	 Current Total Buckets: 5
+Null Null Null Null Null  	 Current Total Buckets: 10
+Null 59531null 89531null 47893null 11  	 Current Total Buckets: 15
+33975null 38531null Null 70458null 22699  	 Current Total Buckets: 20
+Null 12501null 72501null 42501null 12503  	 Current Total Buckets: 25
+22705null 74545null 82345null Null 99989  	 Current Total Buckets: 30
+Null 57391null Null Null 1234  	 Current Total Buckets: 35
+Null 13956null 35197null Null 22599  	 Current Total Buckets: 40
+99999null 80800null Null 84763null Null  	 Current Total Buckets: 45
+18765null 56565null Null 78888null Null  	 Current Total Buckets: 50
+Null 39531null 9531null Null Null  	 Current Total Buckets: 55
+Null Null Null 2698null 2699  	 Current Total Buckets: 60
+62699null 78901null 89102null 19501null Null  	 Current Total Buckets: 65
+54545null 92345null Null Null Null  	 Current Total Buckets: 70
+Null 90911null 27431null 31753null 78911  	 Current Total Buckets: 75
+53354null 56831null 71717null 88631null 22999  	 Current Total Buckets: 80
+62000null 54321null 68241null 64763null Null  	 Current Total Buckets: 85
+95605null Null 49287null Null Null  	 Current Total Buckets: 90
+67890null 49531null 79531null 88531null Null  	 Current Total Buckets: 95
+Null Null Null Null 42699  	 Current Total Buckets: 100
+Null 62501null 92501null Null Null  	 Current Total Buckets: 105
+Null Null 26987null Null Null  	 Current Total Buckets: 110
+Null 81111null 35511null 47993null 47393  	 Current Total Buckets: 115
+55555null 67676null Null 358null 37319  	 Current Total Buckets: 120
+
+Number of Collisions: 49
+Time: 100 ns
+
+Hashing with Linear Probing mod 113: 
+
+31753null 0null Null Null Null  	 Current Total Buckets: 5
+80800null Null 18765null 95605null Null  	 Current Total Buckets: 10
+Null 11null 62501null 84763null 42501  	 Current Total Buckets: 15
+78888null 64763null Null 53354null 49287  	 Current Total Buckets: 20
+358null Null Null Null 92345  	 Current Total Buckets: 25
+Null Null 78901null Null 37319  	 Current Total Buckets: 30
+35511null Null Null Null Null  	 Current Total Buckets: 35
+89531null Null 49531null 78911null 9531  	 Current Total Buckets: 40
+88631null Null Null Null Null  	 Current Total Buckets: 45
+Null 47393null Null Null Null  	 Current Total Buckets: 50
+Null Null 88531null Null 35197  	 Current Total Buckets: 55
+Null Null 13956null 89102null 90911  	 Current Total Buckets: 60
+22999null 70458null 90123null Null Null  	 Current Total Buckets: 65
+56565null 19501null 92501null 72501null Null  	 Current Total Buckets: 70
+Null 12501null 55555null 14763null 12503  	 Current Total Buckets: 75
+33975null 71717null 62000null 74545null 54545  	 Current Total Buckets: 80
+Null 54321null 47993null 82345null Null  	 Current Total Buckets: 85
+27431null Null Null Null Null  	 Current Total Buckets: 90
+67890null 81111null 79531null 59531null 39531  	 Current Total Buckets: 95
+47893null 26987null 62699null 42699null 2698  	 Current Total Buckets: 100
+2699null 22699null 67676null 57391null 1234  	 Current Total Buckets: 105
+99989null 22705null 99999null 68241null 56831  	 Current Total Buckets: 110
+Null 38531null 22599null Null Null  	 Current Total Buckets: 115
+Null Null Null Null Null  	 Current Total Buckets: 120
+
+Number of Collisions: 97
+Time: 100 ns
+
+Hashing with Linear Probing Bucket size 3: 
+
+55555 99999 0	Bucket Number: 1
+Null Null Null  Bucket Number:2
+27431 0 0	Bucket Number: 3
+49531 14763 0	Bucket Number: 4
+1234 78888 0	Bucket Number: 5
+90123 92501 47893	Bucket Number: 6
+49287 35511 56831	Bucket Number: 7
+39531 74545 0	Bucket Number: 8
+22599 71717 62000	Bucket Number: 9
+37319 89102 26987	Bucket Number: 10
+62699 0 0	Bucket Number: 11
+11 0 0	Bucket Number: 12
+88531 0 0	Bucket Number: 13
+72501 81111 92345	Bucket Number: 14
+90911 53354 0	Bucket Number: 15
+54545 0 0	Bucket Number: 16
+84763 13956 0	Bucket Number: 17
+62501 78901 68241	Bucket Number: 18
+42699 82345 0	Bucket Number: 19
+31753 9531 35197	Bucket Number: 20
+70458 0 0	Bucket Number: 21
+Null Null Null  Bucket Number:22
+Null Null Null  Bucket Number:23
+47993 0 0	Bucket Number: 24
+64763 0 0	Bucket Number: 25
+42501 0 0	Bucket Number: 26
+22699 67676 56565	Bucket Number: 27
+33975 19501 78911	Bucket Number: 28
+18765 89531 0	Bucket Number: 29
+Null Null Null  Bucket Number:30
+80800 358 88631	Bucket Number: 31
+99989 0 0	Bucket Number: 32
+79531 57391 22705	Bucket Number: 33
+2698 38531 0	Bucket Number: 34
+2699 95605 0	Bucket Number: 35
+67890 0 0	Bucket Number: 36
+Null Null Null  Bucket Number:37
+12501 54321 0	Bucket Number: 38
+47393 0 0	Bucket Number: 39
+22999 12503 0	Bucket Number: 40
+59531 0 0	Bucket Number: 41
+Null Null Null  Bucket Number:42
+Null Null Null  Bucket Number:43
+Null Null Null  Bucket Number:44
+Null Null Null  Bucket Number:45
+Null Null Null  Bucket Number:46
+Null Null Null  Bucket Number:47
+Null Null Null  Bucket Number:48
+Null Null Null  Bucket Number:49
+Null Null Null  Bucket Number:50
+Null Null Null  Bucket Number:51
+Null Null Null  Bucket Number:52
+Null Null Null  Bucket Number:53
+Null Null Null  Bucket Number:54
+Null Null Null  Bucket Number:55
+Null Null Null  Bucket Number:56
+Null Null Null  Bucket Number:57
+Null Null Null  Bucket Number:58
+Null Null Null  Bucket Number:59
+Null Null Null  Bucket Number:60
+Null Null Null  Bucket Number:61
+Null Null Null  Bucket Number:62
+Null Null Null  Bucket Number:63
+Null Null Null  Bucket Number:64
+Null Null Null  Bucket Number:65
+Null Null Null  Bucket Number:66
+Null Null Null  Bucket Number:67
+Null Null Null  Bucket Number:68
+Null Null Null  Bucket Number:69
+Null Null Null  Bucket Number:70
+Null Null Null  Bucket Number:71
+Null Null Null  Bucket Number:72
+Null Null Null  Bucket Number:73
+Null Null Null  Bucket Number:74
+Null Null Null  Bucket Number:75
+Null Null Null  Bucket Number:76
+Null Null Null  Bucket Number:77
+Null Null Null  Bucket Number:78
+Null Null Null  Bucket Number:79
+Null Null Null  Bucket Number:80
+Null Null Null  Bucket Number:81
+Null Null Null  Bucket Number:82
+Null Null Null  Bucket Number:83
+Null Null Null  Bucket Number:84
+Null Null Null  Bucket Number:85
+Null Null Null  Bucket Number:86
+Null Null Null  Bucket Number:87
+Null Null Null  Bucket Number:88
+Null Null Null  Bucket Number:89
+Null Null Null  Bucket Number:90
+Null Null Null  Bucket Number:91
+Null Null Null  Bucket Number:92
+Null Null Null  Bucket Number:93
+Null Null Null  Bucket Number:94
+Null Null Null  Bucket Number:95
+Null Null Null  Bucket Number:96
+Null Null Null  Bucket Number:97
+Null Null Null  Bucket Number:98
+Null Null Null  Bucket Number:99
+Null Null Null  Bucket Number:100
+Null Null Null  Bucket Number:101
+Null Null Null  Bucket Number:102
+Null Null Null  Bucket Number:103
+Null Null Null  Bucket Number:104
+Null Null Null  Bucket Number:105
+Null Null Null  Bucket Number:106
+Null Null Null  Bucket Number:107
+Null Null Null  Bucket Number:108
+Null Null Null  Bucket Number:109
+Null Null Null  Bucket Number:110
+Null Null Null  Bucket Number:111
+Null Null Null  Bucket Number:112
+Null Null Null  Bucket Number:113
+Null Null Null  Bucket Number:114
+Null Null Null  Bucket Number:115
+Null Null Null  Bucket Number:116
+Null Null Null  Bucket Number:117
+Null Null Null  Bucket Number:118
+Null Null Null  Bucket Number:119
+Null Null Null  Bucket Number:120
+
+Number of Collisions: 7
+Time: 200 ns
+
+Hashing with Quadratic Probing mod 120: 
+ 
+0null Null Null 90123null 14763  	 Current Total Buckets: 5
+Null 88631null Null Null Null  	 Current Total Buckets: 10
+Null 59531null 89531null 47893null 11  	 Current Total Buckets: 15
+33975null Null 38531null 70458null 22699  	 Current Total Buckets: 20
+Null 12501null 72501null 12503null 42501  	 Current Total Buckets: 25
+22705null 74545null Null 82345null 99989  	 Current Total Buckets: 30
+Null 57391null Null Null 1234  	 Current Total Buckets: 35
+Null 13956null 35197null Null 22599  	 Current Total Buckets: 40
+99999null 80800null Null 84763null Null  	 Current Total Buckets: 45
+18765null 56565null Null 78888null Null  	 Current Total Buckets: 50
+Null 39531null 9531null Null Null  	 Current Total Buckets: 55
+Null Null Null 2698null 2699  	 Current Total Buckets: 60
+62699null 78901null 89102null Null 19501  	 Current Total Buckets: 65
+54545null 92345null Null Null Null  	 Current Total Buckets: 70
+Null 90911null 27431null 31753null 78911  	 Current Total Buckets: 75
+53354null Null 71717null Null 22999  	 Current Total Buckets: 80
+62000null 54321null 68241null 64763null Null  	 Current Total Buckets: 85
+95605null 56831null 49287null Null Null  	 Current Total Buckets: 90
+67890null 49531null 79531null Null 88531  	 Current Total Buckets: 95
+Null Null Null Null 42699  	 Current Total Buckets: 100
+Null 62501null 92501null Null Null  	 Current Total Buckets: 105
+Null Null 26987null Null Null  	 Current Total Buckets: 110
+Null 81111null 35511null 47993null 47393  	 Current Total Buckets: 115
+55555null 67676null Null 358null 37319  	 Current Total Buckets: 120
+
+Number of Collisions: 47
+Time: 100 ns
+
+Hashing with Quadratic Probing mod 113: 
+ 
+31753null 0null Null Null Null  	 Current Total Buckets: 5
+80800null Null 18765null 95605null Null  	 Current Total Buckets: 10
+Null 11null 62501null 84763null 42501  	 Current Total Buckets: 15
+78888null Null 64763null 53354null 49287  	 Current Total Buckets: 20
+99989null Null 358null Null 92345  	 Current Total Buckets: 25
+Null Null 78901null Null 37319  	 Current Total Buckets: 30
+35511null Null Null Null Null  	 Current Total Buckets: 35
+89531null Null 49531null 78911null 9531  	 Current Total Buckets: 40
+88631null Null Null Null Null  	 Current Total Buckets: 45
+Null 47393null Null Null Null  	 Current Total Buckets: 50
+Null Null 88531null Null 35197  	 Current Total Buckets: 55
+Null Null 13956null 89102null 90911  	 Current Total Buckets: 60
+22999null Null 90123null Null Null  	 Current Total Buckets: 65
+56565null 19501null 92501null 72501null 70458  	 Current Total Buckets: 70
+Null 12501null 55555null 14763null 12503  	 Current Total Buckets: 75
+33975null 71717null 62000null 74545null 54545  	 Current Total Buckets: 80
+Null 54321null 47993null Null 82345  	 Current Total Buckets: 85
+27431null Null Null Null Null  	 Current Total Buckets: 90
+67890null 81111null 79531null 59531null 39531  	 Current Total Buckets: 95
+47893null 26987null 62699null 42699null 2698  	 Current Total Buckets: 100
+2699null 57391null 22699null 67676null 1234  	 Current Total Buckets: 105
+22705null 56831null 99999null 68241null Null  	 Current Total Buckets: 110
+Null 38531null 22599null Null Null  	 Current Total Buckets: 115
+Null Null Null Null Null  	 Current Total Buckets: 120
+
+Number of Collisions: 91
+Time: 200 ns
+
+Hashing with Quadratic Probing and Bucket size 3: 
+
+55555 99999 0	Bucket Number: 1
+Null Null Null  Bucket Number:2
+27431 0 0	Bucket Number: 3
+49531 14763 0	Bucket Number: 4
+1234 78888 0	Bucket Number: 5
+90123 92501 47893	Bucket Number: 6
+49287 35511 56831	Bucket Number: 7
+39531 74545 0	Bucket Number: 8
+22599 71717 62000	Bucket Number: 9
+37319 89102 26987	Bucket Number: 10
+62699 0 0	Bucket Number: 11
+11 0 0	Bucket Number: 12
+88531 0 0	Bucket Number: 13
+72501 81111 92345	Bucket Number: 14
+90911 53354 0	Bucket Number: 15
+54545 0 0	Bucket Number: 16
+84763 13956 0	Bucket Number: 17
+62501 78901 68241	Bucket Number: 18
+42699 82345 0	Bucket Number: 19
+31753 9531 35197	Bucket Number: 20
+70458 0 0	Bucket Number: 21
+Null Null Null  Bucket Number:22
+Null Null Null  Bucket Number:23
+47993 0 0	Bucket Number: 24
+64763 0 0	Bucket Number: 25
+42501 0 0	Bucket Number: 26
+22699 67676 56565	Bucket Number: 27
+33975 19501 78911	Bucket Number: 28
+18765 89531 0	Bucket Number: 29
+Null Null Null  Bucket Number:30
+80800 358 88631	Bucket Number: 31
+99989 0 0	Bucket Number: 32
+79531 57391 22705	Bucket Number: 33
+2698 38531 0	Bucket Number: 34
+2699 95605 0	Bucket Number: 35
+67890 0 0	Bucket Number: 36
+Null Null Null  Bucket Number:37
+12501 54321 0	Bucket Number: 38
+47393 0 0	Bucket Number: 39
+22999 12503 0	Bucket Number: 40
+59531 0 0	Bucket Number: 41
+Null Null Null  Bucket Number:42
+Null Null Null  Bucket Number:43
+Null Null Null  Bucket Number:44
+Null Null Null  Bucket Number:45
+Null Null Null  Bucket Number:46
+Null Null Null  Bucket Number:47
+Null Null Null  Bucket Number:48
+Null Null Null  Bucket Number:49
+Null Null Null  Bucket Number:50
+Null Null Null  Bucket Number:51
+Null Null Null  Bucket Number:52
+Null Null Null  Bucket Number:53
+Null Null Null  Bucket Number:54
+Null Null Null  Bucket Number:55
+Null Null Null  Bucket Number:56
+Null Null Null  Bucket Number:57
+Null Null Null  Bucket Number:58
+Null Null Null  Bucket Number:59
+Null Null Null  Bucket Number:60
+Null Null Null  Bucket Number:61
+Null Null Null  Bucket Number:62
+Null Null Null  Bucket Number:63
+Null Null Null  Bucket Number:64
+Null Null Null  Bucket Number:65
+Null Null Null  Bucket Number:66
+Null Null Null  Bucket Number:67
+Null Null Null  Bucket Number:68
+Null Null Null  Bucket Number:69
+Null Null Null  Bucket Number:70
+Null Null Null  Bucket Number:71
+Null Null Null  Bucket Number:72
+Null Null Null  Bucket Number:73
+Null Null Null  Bucket Number:74
+Null Null Null  Bucket Number:75
+Null Null Null  Bucket Number:76
+Null Null Null  Bucket Number:77
+Null Null Null  Bucket Number:78
+Null Null Null  Bucket Number:79
+Null Null Null  Bucket Number:80
+Null Null Null  Bucket Number:81
+Null Null Null  Bucket Number:82
+Null Null Null  Bucket Number:83
+Null Null Null  Bucket Number:84
+Null Null Null  Bucket Number:85
+Null Null Null  Bucket Number:86
+Null Null Null  Bucket Number:87
+Null Null Null  Bucket Number:88
+Null Null Null  Bucket Number:89
+Null Null Null  Bucket Number:90
+Null Null Null  Bucket Number:91
+Null Null Null  Bucket Number:92
+Null Null Null  Bucket Number:93
+Null Null Null  Bucket Number:94
+Null Null Null  Bucket Number:95
+Null Null Null  Bucket Number:96
+Null Null Null  Bucket Number:97
+Null Null Null  Bucket Number:98
+Null Null Null  Bucket Number:99
+Null Null Null  Bucket Number:100
+Null Null Null  Bucket Number:101
+Null Null Null  Bucket Number:102
+Null Null Null  Bucket Number:103
+Null Null Null  Bucket Number:104
+Null Null Null  Bucket Number:105
+Null Null Null  Bucket Number:106
+Null Null Null  Bucket Number:107
+Null Null Null  Bucket Number:108
+Null Null Null  Bucket Number:109
+Null Null Null  Bucket Number:110
+Null Null Null  Bucket Number:111
+Null Null Null  Bucket Number:112
+Null Null Null  Bucket Number:113
+Null Null Null  Bucket Number:114
+Null Null Null  Bucket Number:115
+Null Null Null  Bucket Number:116
+Null Null Null  Bucket Number:117
+Null Null Null  Bucket Number:118
+Null Null Null  Bucket Number:119
+Null Null Null  Bucket Number:120
+
+Number of Collisions: 7
+Time: 300 ns
+
+Hashing with Chaining modulo 120: 
+0null Null Null 90123null Null  	 Current Total Buckets: 5
+Null Null Null Null Null  	 Current Total Buckets: 10
+Null 59531null Null 47893null Null  	 Current Total Buckets: 15
+33975null Null Null 70458null 22699  	 Current Total Buckets: 20
+Null 12501null Null 12503null Null  	 Current Total Buckets: 25
+22705null Null Null Null 99989  	 Current Total Buckets: 30
+Null 57391null Null Null 1234  	 Current Total Buckets: 35
+Null 13956null 35197null Null 22599  	 Current Total Buckets: 40
+80800null Null Null 84763null Null  	 Current Total Buckets: 45
+18765null Null Null 78888null Null  	 Current Total Buckets: 50
+Null 39531null Null Null Null  	 Current Total Buckets: 55
+Null Null Null 2698null 2699  	 Current Total Buckets: 60
+Null 78901null 89102null Null Null  	 Current Total Buckets: 65
+54545null Null Null Null Null  	 Current Total Buckets: 70
+Null 90911null Null 31753null 53354  	 Current Total Buckets: 75
+Null Null 71717null Null 22999  	 Current Total Buckets: 80
+62000null 54321null Null 64763null Null  	 Current Total Buckets: 85
+95605null Null 49287null Null Null  	 Current Total Buckets: 90
+67890null 49531null Null Null Null  	 Current Total Buckets: 95
+Null Null Null Null 42699  	 Current Total Buckets: 100
+Null 62501null Null Null Null  	 Current Total Buckets: 105
+Null Null 26987null Null Null  	 Current Total Buckets: 110
+Null 81111null Null 47993null Null  	 Current Total Buckets: 115
+55555null 67676null Null 358null 37319  	 Current Total Buckets: 120
+
+Number of Collisions: 25
+Time: 100 ns
+
+Hashing with Chaining modulo 113: 
+0null Null Null Null Null  	 Current Total Buckets: 5
+80800null Null 18765null Null Null  	 Current Total Buckets: 10
+Null 11null 62501null 84763null 78888  	 Current Total Buckets: 15
+Null Null Null 53354null 49287  	 Current Total Buckets: 20
+Null Null Null Null 92345  	 Current Total Buckets: 25
+Null Null 78901null Null 37319  	 Current Total Buckets: 30
+Null Null Null Null Null  	 Current Total Buckets: 35
+89531null Null 49531null Null 9531  	 Current Total Buckets: 40
+Null Null Null Null Null  	 Current Total Buckets: 45
+Null 47393null Null Null Null  	 Current Total Buckets: 50
+Null Null 88531null Null 35197  	 Current Total Buckets: 55
+Null Null 13956null 89102null 90911  	 Current Total Buckets: 60
+22999null Null 90123null Null Null  	 Current Total Buckets: 65
+56565null Null 92501null 72501null Null  	 Current Total Buckets: 70
+Null 12501null 55555null 14763null Null  	 Current Total Buckets: 75
+33975null 62000null Null 74545null 54545  	 Current Total Buckets: 80
+Null 54321null Null Null Null  	 Current Total Buckets: 85
+27431null Null Null Null Null  	 Current Total Buckets: 90
+67890null Null 79531null 59531null 39531  	 Current Total Buckets: 95
+Null Null 62699null 42699null 2698  	 Current Total Buckets: 100
+2699null Null 67676null Null 1234  	 Current Total Buckets: 105
+22705null Null 99999null Null Null  	 Current Total Buckets: 110
+Null 38531null 22599null Null Null  	 Current Total Buckets: 115
+Null Null Null Null Null  	 Current Total Buckets: 120
+
+Number of Collisions: 23
+Time: 100 ns
+
+My Hashing Scheme Chaining multiplication constant 0.3:
+0null Null Null Null Null  	 Current Total Buckets: 5
+Null Null Null Null Null  	 Current Total Buckets: 10
+Null 71717null 35197null Null Null  	 Current Total Buckets: 15
+Null Null Null Null Null  	 Current Total Buckets: 20
+Null Null Null 1234null Null  	 Current Total Buckets: 25
+Null Null Null Null Null  	 Current Total Buckets: 30
+Null Null Null Null Null  	 Current Total Buckets: 35
+12501null 19501null Null Null Null  	 Current Total Buckets: 40
+Null Null Null Null Null  	 Current Total Buckets: 45
+Null Null 2698null Null Null  	 Current Total Buckets: 50
+Null Null Null Null Null  	 Current Total Buckets: 55
+Null Null Null Null Null  	 Current Total Buckets: 60
+55555null Null Null Null Null  	 Current Total Buckets: 65
+Null Null Null Null Null  	 Current Total Buckets: 70
+Null 89102null Null Null Null  	 Current Total Buckets: 75
+Null Null Null Null Null  	 Current Total Buckets: 80
+Null Null Null 22599null 62699  	 Current Total Buckets: 85
+Null Null Null Null Null  	 Current Total Buckets: 90
+Null Null Null Null Null  	 Current Total Buckets: 95
+67676null 13956null Null Null Null  	 Current Total Buckets: 100
+Null Null Null Null Null  	 Current Total Buckets: 105
+Null Null 84763null Null Null  	 Current Total Buckets: 110
+Null Null Null Null Null  	 Current Total Buckets: 115
+Null Null Null Null Null  	 Current Total Buckets: 120
+
+Number of Collisions: 58
+Time: 100 ns
+
+My hashing Scheme Quad: 
+ 
+80800null 67890null 14763null 62000null Null  	 Current Total Buckets: 5
+11null 27431null Null 64763null Null  	 Current Total Buckets: 10
+0null 71717null 35197null Null 49287  	 Current Total Buckets: 15
+12503null Null 26987null 74545null Null  	 Current Total Buckets: 20
+92501null 88631null Null 1234null 53354  	 Current Total Buckets: 25
+Null 38531null Null Null Null  	 Current Total Buckets: 30
+35511null 82345null 47993null Null Null  	 Current Total Buckets: 35
+12501null 72501null 19501null 62501null Null  	 Current Total Buckets: 40
+Null 42501null 47393null Null Null  	 Current Total Buckets: 45
+90911null Null 2698null 78888null Null  	 Current Total Buckets: 50
+78901null 9531null Null 78911null Null  	 Current Total Buckets: 55
+Null 59531null 358null Null Null  	 Current Total Buckets: 60
+55555null 33975null 70458null 18765null Null  	 Current Total Buckets: 65
+56831null 56565null Null 57391null Null  	 Current Total Buckets: 70
+22705null 39531null 89102null Null Null  	 Current Total Buckets: 75
+54545null Null Null Null Null  	 Current Total Buckets: 80
+49531null 88531null Null 22599null 99999  	 Current Total Buckets: 85
+62699null 42699null Null 92345null 2699  	 Current Total Buckets: 90
+89531null Null Null 22699null Null  	 Current Total Buckets: 95
+67676null 13956null Null 22999null Null  	 Current Total Buckets: 100
+Null 81111null Null Null 37319  	 Current Total Buckets: 105
+54321null Null 84763null 31753null Null  	 Current Total Buckets: 110
+90123null 99989null Null 79531null Null  	 Current Total Buckets: 115
+95605null 68241null 47893null Null Null  	 Current Total Buckets: 120
+
+Number of Collisions: 742
+Time: 0 ns
+
+My Hashing scheme for Linear Probing: 
+
+80800null 67890null 62000null 0null Null  	 Current Total Buckets: 5
+Null Null Null Null Null  	 Current Total Buckets: 10
+Null 71717null 35197null 49287null 26987  	 Current Total Buckets: 15
+Null Null Null Null Null  	 Current Total Buckets: 20
+Null Null Null 1234null 53354  	 Current Total Buckets: 25
+Null Null Null Null Null  	 Current Total Buckets: 30
+Null Null Null Null Null  	 Current Total Buckets: 35
+12501null 72501null 62501null 42501null 90911  	 Current Total Buckets: 40
+78901null 59531null 39531null 49531null 89531  	 Current Total Buckets: 45
+81111null 79531null 2698null 78888null 27431  	 Current Total Buckets: 50
+92501null 9531null 57391null 54321null 11  	 Current Total Buckets: 55
+19501null 38531null 78911null 88531null 358  	 Current Total Buckets: 60
+55555null 33975null 18765null 56565null 22705  	 Current Total Buckets: 65
+54545null 92345null 68241null 35511null 95605  	 Current Total Buckets: 70
+56831null 89102null 74545null 88631null 82345  	 Current Total Buckets: 75
+70458null Null Null Null Null  	 Current Total Buckets: 80
+Null Null Null 22599null 99999  	 Current Total Buckets: 85
+42699null 2699null 22699null 22999null 37319  	 Current Total Buckets: 90
+62699null 99989null Null Null Null  	 Current Total Buckets: 95
+67676null 13956null Null Null Null  	 Current Total Buckets: 100
+Null Null Null Null Null  	 Current Total Buckets: 105
+Null Null 84763null 31753null 90123  	 Current Total Buckets: 110
+47893null 14763null 64763null 12503null 47993  	 Current Total Buckets: 115
+47393null Null Null Null Null  	 Current Total Buckets: 120
+
+Number of Collisions: 715
+Time: 300 ns
+

@@ -1,0 +1,15 @@
+
+
+racecar is not a palindrome
+
+racecar is not a palindrome
+
+racecar is not a palindrome
+
+racecar is not a palindrome
+
+racecar is not a palindrome
+
+racecar is not a palindrome
+
+racecar" is a palindrome.
